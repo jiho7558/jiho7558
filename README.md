@@ -1,4 +1,5 @@
 ## Hi there 👋
+![ck](https://github.com/user-attachments/assets/0c1b19fa-6327-4467-aa8a-a290a1cd3e49)
 
 <!--
 **jiho7558/jiho7558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
