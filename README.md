@@ -1,4 +1,4 @@
-## 팀 개발을 위한 git github 시작하기 📌
+## 📌팀 개발을 위한 git github 시작하기 
 ![ckm](https://github.com/user-attachments/assets/003705c8-78a2-4f6c-bb70-5695ff69703d)
 
 
