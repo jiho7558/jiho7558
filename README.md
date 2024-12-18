@@ -3,3 +3,5 @@
 ![octocat](https://github.com/user-attachments/assets/a042223d-3d69-4d29-87a8-a69154f8ea09)
 
 안녕하세요. 공부 실습용 git 허브 계정입니다.
+
+##렛츠 git 잇
